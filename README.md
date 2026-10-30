@@ -1,10 +1,19 @@
+<div align="center">
+
 # PoliMen
 
-Melon pollination optimization system (*Sistem Optimasi Polinasi Buah Melon*).
+**Melon pollination optimization system** — *Sistem Optimasi Polinasi Buah Melon*.
+
+![Status](https://img.shields.io/badge/status-documentation%20only-yellow)
+![Source](https://img.shields.io/badge/source-not%20published-lightgrey)
+
+</div>
+
+---
 
 > **Status: source not published.**
-> This repository currently contains documentation only. The application code
-> has not been added yet, so there is nothing to run or install.
+> This repository currently contains documentation only. The application code has
+> not been added yet, so there is nothing to run or install.
 
 ## About
 
